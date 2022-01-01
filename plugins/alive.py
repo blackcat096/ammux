@@ -35,13 +35,13 @@ async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/86c2a5b8ecbf38be0dfdd.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
-ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
+💥 𝗧𝗵𝗶𝘀 𝗶𝘀 𝘁𝗵𝗲 𝗕𝙡𝙖𝙘𝙠 𝙘𝙖𝙩...!
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [ʙʟᴀᴄᴋ ᴄᴀᴛ](https://t.me/The_cat_lover0)
-┣★ ᴜᴘᴅᴀᴛᴇs : [ʙʟᴀᴄᴋᴄᴀᴛ sᴇʀᴠᴇʀ](https://t.me/catmusicworld)
-┣★ sᴜᴘᴘᴏʀᴛ : [ᴅɪsᴄᴜs](https://t.me/catmusicworld)
-┣★ sᴏᴜʀᴄᴇ › : [ɢᴇᴛ ʀᴇᴘᴏ ʜᴇʀᴇ](https://t.me/The_cat_lover0)
+┣» ᴏᴘ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ. 
+┣» ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴍᴜꜱɪᴄ.
+┣» ᴠɪᴅᴇᴏ ᴘʟᴀʏ ꜱᴜᴘᴘᴏʀᴛᴇᴅ.
+┣» ᴀᴅᴠᴀɴᴄᴇᴅ ꜰᴇᴀᴛᴜʀᴇꜱ.
+┣» ꜱᴜᴘᴇʀꜰᴀꜱᴛ ꜱᴘᴇᴇᴅ.
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ᴇᴍ ɪɴᴀ ᴘʀᴏʙʟᴇᴍ ᴜɴᴛᴇʏ 
